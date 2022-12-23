@@ -29,6 +29,25 @@
 -------------------------------- README will be accomplished.
 
 ## Dimensionality reduction
+
+- Subset Selection
+- Forward Feature Selection
+- Backward Feature Elemination
+- Factor Analysis
+- Singular Value Decomposition (SVD)
+- Principal Component Analysis (PCA)
+- Latent Dirichlet Analysis (LDA)
+- t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- Partial Least Squares Regression (PLSR)
+- Regularized Discriminant Analysis (RDA)
+- Multidimensional Scaling (MDS)
+- AutoEncoder
+- Independent Component Analysis (ICA)
+- Isomap
+- Local Linear Embedding (LLE)
+- Locality-Sensitive Hashing
+- Sammon Mapping
+
 ## Association rule learning
 ## Regression analysis
 ## Classification algorithms
