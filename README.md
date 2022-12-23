@@ -27,6 +27,9 @@
 
 
 -------------------------------- README will be accomplished.
+-------------------------- i will looking for problems and datasets(metadatas) category to automate data science algorithms usage **:) 
+--------- to be free (LOL_)
+
 
 ## Dimensionality reduction
 
