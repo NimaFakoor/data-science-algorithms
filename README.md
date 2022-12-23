@@ -7,15 +7,15 @@
 ## _Category_
 
 
-> Dimensionality reduction
-> Association rule learning
-> Regression analysis
-> Classification algorithms
-> Clustering
-> Ensemble
-> Neural networks
-> Anomaly detection
-> Regularization
+> Dimensionality reduction 
+> Association rule learning 
+> Regression analysis 
+> Classification algorithms 
+> Clustering 
+> Ensemble 
+> Neural networks 
+> Anomaly detection 
+> Regularization 
 
 
 -------------------------------- README will be accomplished.
