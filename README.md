@@ -66,4 +66,4 @@ MIT
 
 [//]: # (Bertrand Russell: Love is Wise, Hatred is Foolish) 
 
-[//]: # (NimaFakoor) 
+[//]: # (https://datasciencedojo.com/blog/machine-learning-algorithms/) 
