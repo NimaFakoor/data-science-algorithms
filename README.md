@@ -49,12 +49,88 @@
 - Sammon Mapping
 
 ## Association rule learning
+
+- Apriori
+- Eclat
+
 ## Regression analysis
+
+- Linear Regression
+- Polynomial Regression
+- Principal Component Regression (PCR)
+- Partial Least Squares Regression
+- Support Vector Regression
+- Gradient Descent Regression
+- Poisson Regression
+- Ordinary Least Squares (OLS) Regression
+- Ordinal Regression
+- Stepwise Regression
+- Lasso Regression (Least absoulute selection and shrinkage operator)
+- Ridge Regression (L2)
+- Elastic Net Regression
+- Bayesian Linear Regression
+- Least-Angled Regression (LARS)
+- Neural Network Regression
+- Locally Estimated Scatterplot Smoothing (LOESS)
+- Multivariate Adaptive Regression Splines (MARS)
+- Locally Weighted Regression (LWL)
+- Quantile Regression
+
 ## Classification algorithms
+
 ## Clustering
+
+- K-Means Clustering
+- K-Medians Clustering
+- Mean Shift Clustering
+- K-Modes Clustering
+- Fuzzy K-Modes
+- Fuzzy C-Means
+- Mini Batch K-Means Clustering
+- Hierarchical Clustering
+- Expectation Maximization
+- DBSCAN
+- Minimum Spanning Trees
+- Quality Threshold
+- Gaussian Mixture Model (GMM)
+- Spectral Clustering
+
 ## Ensemble
+
+- Random Forest
+- Bagging (Bootstrap Aggregation)
+- AdaBoost
+- Gradient Boosting
+- Gradient Boosted Regression Trees
+- XGBoost (Extreme Gradient Boosting)
+- Voting Classifier
+- Extremely Randomized Trees
+- Boosted Decision Tree
+- Category Boosting (CatBoost)
+- Stacked Generalization (Stacking)
+
 ## Neural networks
+
+- Perceptron
+- Multilayer Perceptron (MLP)
+- Recurrent Neural Network (RNN)
+- Convolutional Neural Network (CNN)
+- Deep Belief Network (DBN)
+- Hopfield Networks
+- Learning Vector Quantization (LVQ)
+- Stacked Autoencoder
+- Boltzmann Machine
+- Restricted Boltzmann Machine (RBM)
+- Generative Adversarial Networks (GANs)
+
 ## Anomaly detection
+
+- Isolation Forest
+- Once Class SVM
+- PCA-Based Anomaly Detection
+- Fast-MCD
+- Local Outlier Factor (LOF)
+
 ## Regularization
 
 
