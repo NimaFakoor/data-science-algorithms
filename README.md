@@ -4,6 +4,10 @@
 - Optimization algorithms for parameter estimation which includes Stochastic Gradient Descent, Least-Squares, Newton's Method.
 - Machine learning algorithms.
 
+
+[Data Science Introduction](https://www.w3schools.com/datascience/ds_introduction.asp)
+
+
 ## _Category_
 
 
