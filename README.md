@@ -26,8 +26,20 @@
 > Regularization 
 
 
+#### also algorithms are classified into 4 types:
+
+> Supervised
+> 
+> Unsupervised Learning
+> 
+> Semi-supervised Learning
+> 
+> Reinforcement Learning
+
 -------------------------------- README will be accomplished.
+
 -------------------------- i will looking for problems and datasets(metadatas) category to automate data science algorithms usage **:) 
+
 --------- to be free (LOL_)
 
 
@@ -80,6 +92,25 @@
 - Quantile Regression
 
 ## Classification algorithms
+
+- Decision Tree
+- Decision Stump
+- Naive Bayes
+- Gaussian Naive Bayes
+- Bernoulli Naive Bayes
+- Multinomial Naive Bayes
+- K Nearest Neighbours (KNN)
+- Support Vector Machine (SVM)
+- Linear Support Vector Classifier (SVC)
+- NuSVC
+- Stochastic Gradient Descent (SGD) Classifier
+- Bayesian Network
+- Logistic Regression
+- Zero Rule (ZeroR)
+- One Rule (OneR)
+- Linear Discriminant Analysis (LDA)
+- Quadratic Discriminant Analysis (QDA)
+- Fisher's Linear Discriminant
 
 ## Clustering
 
@@ -136,6 +167,9 @@
 
 ## Regularization
 
+- LASSO Regularization (Least Absolute Shrinkage and Selection Operator)
+- Ridge Regularization
+- Elastic Net Regularization
 
 #### License
 
