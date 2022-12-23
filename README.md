@@ -8,13 +8,21 @@
 
 
 > Dimensionality reduction 
+> 
 > Association rule learning 
+> 
 > Regression analysis 
+> 
 > Classification algorithms 
+> 
 > Clustering 
+> 
 > Ensemble 
+> 
 > Neural networks 
+> 
 > Anomaly detection 
+> 
 > Regularization 
 
 
