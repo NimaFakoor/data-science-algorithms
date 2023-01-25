@@ -1,5 +1,11 @@
 # data science algorithms
 
+در حال مطالعه و تکمیل
+میتوانید لینک زیر را ببینید
+
+https://github.com/NimaFakoor/discussions-in-some-of-data-science-algorithms
+
+
 - Data preparation, munging, and process algorithms.
 - Optimization algorithms for parameter estimation which includes Stochastic Gradient Descent, Least-Squares, Newton's Method.
 - Machine learning algorithms.
